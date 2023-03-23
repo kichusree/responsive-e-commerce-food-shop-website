@@ -168,8 +168,9 @@
 }
 
 @media(max-width: 800px) {
-    .c1 h1 {
+    .caro1 h1 {
         width: 100%;
+        color: #5e068a;
         font-size: 24px;
         text-align: start;
         margin-top: 15%;
