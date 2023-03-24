@@ -42,9 +42,6 @@
     font-size: 14px;
     cursor: pointer;
 }
-.slider-btn:hover{
-    background-color: rgb(158, 106, 185);
-}
 .slider-btn:hover {
     background-color: white;
 }
