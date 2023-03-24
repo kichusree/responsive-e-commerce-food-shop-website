@@ -173,12 +173,11 @@
         padding-top: 9%;
         padding-bottom: .8%;
     }
-    .slider-btn:hover{
-        background-color: rgb(158, 106, 185);
-    }
+    
     .slider-btn:hover {
         background-color: white;
     }
+}
 
 /* @media(max-width: 800px) {
     .caro1 h1 {
